@@ -46,7 +46,7 @@ Main components:
 
 System structure:
 
-
+```
 STM32F103
 │
 ├── SPI → SX1268 LoRa module
@@ -57,6 +57,7 @@ STM32F103
 ├── 4×4 keypad
 │
 └── UART → Host computer
+```
 
 ---
 
